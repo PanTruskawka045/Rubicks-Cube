@@ -15,7 +15,7 @@ This plugin was developed, because I was bored and wanted to learn how to use bl
 
 ## 🎥 Video Showcase
 
-[![Rubik's Cube Plugin Showcase](https://i.imgur.com/1Tju6bU.png)](https://youtu.be/rNcARcLnlac "Rubik's Cube Plugin Showcase - Click to Watch!")
+[![Rubik's Cube Plugin Showcase](https://i.imgur.com/1Tju6bU.png)](https://youtu.be/NpjA1GKRG80 "Rubik's Cube Plugin Showcase - Click to Watch!")
 
 ## 📄 License
 
